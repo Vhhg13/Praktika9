@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Praktika9</string>
+    <string name="next_activity">Далее</string>
+    <string name="add">Добавить</string>
+    <string name="remove">Удалить</string>
+    <string name="acmop">Введите число</string>
+    <string-array name="elements">
+        <item>Первый элемент</item>
+        <item>Второй элемент</item>
+        <item>Третий элемент</item>
+        <item>Четвётрый элемент</item>
+        <item>Пятый элемент</item>
+    </string-array>
+</resources>
